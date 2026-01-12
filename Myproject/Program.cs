@@ -6,3 +6,4 @@ clas Task1
         Console.WroteLine("Hi world'');
     }
 }
+
